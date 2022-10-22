@@ -25,7 +25,7 @@ const SearchBar = () => {
         sx={{
             borderRadius: 20,
             border: '1px solid #e3e3e3',
-            p1: 2,
+            pl: 2,
             boxShadow: 'none',
             mr: {sm: 5},
         }}
